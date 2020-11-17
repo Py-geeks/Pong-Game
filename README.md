@@ -191,7 +191,7 @@ while True:
 Game logic
 
 ### Demo
-<img src="demo.png" height = "300" width = "300">
+<img src="demo.jpg" >
 
 ### Developed By:
 [Ankit Mohanty](https://github.com/sovan580)
